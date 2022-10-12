@@ -1,4 +1,7 @@
 <template>
+
+<!-- This is a weather detecting app made with vuejs -->
+
 <div id="weather" :class="istem? 'cold' : 'warm' ">
     <main>
         <div class="search-box">
